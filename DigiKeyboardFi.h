@@ -233,6 +233,7 @@ const uint16_t ascii_to_scan_code_table_fi[] PROGMEM = {
         0x00, 0x00, 0x00, 0x00, 0x00, 0x00,
         0x00, 0x00, 0x00, 0x00,
         51,		      // ö
+        0x00,
         };
 
 #undef FI_MOD_CONTROL_LEFT
